@@ -1,0 +1,4 @@
+// Auto-generated file: /Users/kevinguoquan/Desktop/zama备用文件/测试/Zama项目/housebid_fhe/frontend/web/src/secure-complex/dist-queries/interface-upload-report.go
+// Generated at: 2025-11-27T12:25:21.325Z
+
+
